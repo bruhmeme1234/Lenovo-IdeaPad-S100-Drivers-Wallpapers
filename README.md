@@ -2,7 +2,7 @@
 This repository will house the drivers and default wallpaper found on the IdeaPad S100 restore disc
 
 This will include the following:
-- Default Lenovo Wallpapers (All 4 of them)
+- Default Lenovo Wallpapers (All 4 Themes)
 - Audio Driver
 - Bluetooth Driver
 - Card Reader Driver
